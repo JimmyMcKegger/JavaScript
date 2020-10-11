@@ -1,1 +1,1 @@
-Learnign to use javascript to play sounds on keydown
+Learning to use javascript to play audio on keydown
